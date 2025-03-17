@@ -16719,7 +16719,6 @@ components:
       required:
         - id
         - object
-        - created
         - owned_by
       x-oaiMeta:
         name: The model object
